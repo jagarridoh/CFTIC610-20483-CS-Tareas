@@ -13,7 +13,12 @@ Contenido de las carpetas:
   - 20483C_MOD02_DEMO.md : L2: Creating  Overloaded Methods and Using Optional and Output Parameters.
 - 20201016 Tarea 2 Módulos 3 y 4 (20483). Corresponde a los laboratorios MS:
   - 20483C_MOD03_DEMO.md. 
-  2. 20483C_MOD04_DEMO.md. 
-  3. 20483C_MOD03_LAK.md
-  4. 20483C_MOD04_LAK.md
+  - 20483C_MOD03_LAK.md
+  - 20483C_MOD04_DEMO.md. 
+  - 20483C_MOD04_LAK.md
+- 20201023 Tarea 3 Módulos 5 y 6 (20483). Corresponde a los laboratorios MS:
+  - 20483C_MOD05_DEMO.md. 
+  - 20483C_MOD05_LAK.md
+  - 20483C_MOD06_DEMO.md. 
+  - 20483C_MOD06_LAK.md
 

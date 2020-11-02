@@ -8,12 +8,12 @@
 4. **Resumen del Ejercicio:**
 1. **Objetivos**: 
       1. Demo Módulo 7: creación de diseño y programación a partir de BD, lecturas y escritura en BD. Rellenar formulario, validación de datos.
-      2. Laboratorio Módulo 7: ¡¡¡.
+      2. Laboratorio Módulo 7: creación de programación C# y datos en BD mediante script, generación de diseño y programación a partir de BD. Guardado en BD.
       3. Demo Módulo 8: ¡¡¡.
    4. Laboratorio Módulo 8: ¡¡¡.
    5. **Pasos**: 
       1. Demo Módulo 7: creación de programación C# y datos en BD.
-      2. Laboratorio Módulo 7: ¡¡¡.
+      2. Laboratorio Módulo 7: creación de programación C# y datos en BD. Guardado en BD.
       4. Demo Módulo 8: ¡¡¡.
       4. Laboratorio Módulo 8: ¡¡¡. 
 6. **Dificultad o problemas presentados y como se resolvieron:**  ¡¡¡.

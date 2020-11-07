@@ -1,7 +1,7 @@
 1. **Nombres y apellidos:** Justo Antonio Garrido Herrador
 2. **Fecha:** entrega 7-11-2020
 3. **Laboratorios / Demos**: 
-      1. **Demo Módulo 7 **: Fichero de Instrucciones: Instructions\20483C_MOD07_DEMO.md. 
+      1. **Demo Módulo 7**: Fichero de Instrucciones: Instructions\20483C_MOD07_DEMO.md. 
       2. **Laboratorio Módulo 7**: Fichero de Instrucciones: Instructions\20483C_MOD07_LAK.md
       3. **Demo Módulo 8**: Fichero de Instrucciones: Instructions\20483C_MOD08_DEMO.md. 
       4. **Laboratorio Módulo 8**: Fichero de Instrucciones: Instructions\20483C_MOD08_LAK.md

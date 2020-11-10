@@ -31,4 +31,9 @@ Contenido de las carpetas:
   - 20483C_MOD09_LAK.md
   - 20483C_MOD10_DEMO.md. 
   - 20483C_MOD10_LAK.md
+- 20201110 Tarea 6 Módulos 11 y 12 (20483)
+  - 20483C_MOD11_DEMO.md. 
+  - 20483C_MOD11_LAK.md
+  - 20483C_MOD12_DEMO.md. 
+  - 20483C_MOD12_LAK.md
 

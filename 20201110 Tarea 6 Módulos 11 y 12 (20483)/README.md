@@ -8,7 +8,7 @@
 4. **Resumen del Ejercicio:**
 1. **Objetivos**: 
       1. Demo y Laboratorio Módulo 11: trabajo desde C# a clases COM de Word y encapsulándolo, revisar la creación del proceso. 
-      3. Demo y Laboratorio Módulo 12: creación de clase Atributes y su uso mediante decorador, uso de reflection para ver clases, métodos y propiedades de un ensamblado, aplicación a generación de un listado a partir de Atributos creados en la aplicación en una clase. Generación de Word. ¡¡¡.
+      3. Demo y Laboratorio Módulo 12: creación de clase Atributes y su uso mediante decorador, uso de reflection para ver clases, métodos y propiedades de un ensamblado, aplicación a generación de un listado a partir de Atributos creados en la aplicación en una clase. Generación de Word. Guardado en la gac.
       3. **Pasos**: 
       1. Demo y Laboratorio Módulo 11: modificación de XAML y CS, revisión en Word, monitorizar procesos en Windows. 
       2. Demo y Laboratorio Módulo 12: modificación de XAML y CS, revisión Word.  

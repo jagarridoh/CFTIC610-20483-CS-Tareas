@@ -36,4 +36,7 @@ Contenido de las carpetas:
   - 20483C_MOD11_LAK.md
   - 20483C_MOD12_DEMO.md. 
   - 20483C_MOD12_LAK.md
+- 20201114 Tarea 7 Módulo 13 (20483)
+  - 20483C_MOD13_DEMO.md. 
+  - 20483C_MOD13_LAK.md
 

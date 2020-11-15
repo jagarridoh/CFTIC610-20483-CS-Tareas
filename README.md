@@ -39,4 +39,6 @@ Contenido de las carpetas:
 - 20201114 Tarea 7 Módulo 13 (20483)
   - 20483C_MOD13_DEMO.md. 
   - 20483C_MOD13_LAK.md
+- 20201115 Rev Preg Ex
+  - Resolución a preguntas de examen de certificación.
 

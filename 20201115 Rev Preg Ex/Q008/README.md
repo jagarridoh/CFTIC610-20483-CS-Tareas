@@ -6,23 +6,27 @@
 
 An application receives JSON data in the following format:
 
-	{ "FirstName" : "David",
-	  "LastName" : "Jones",
-	  "Values" : [0, 1, 2] }
+```c#
+{ "FirstName" : "David",
+  "LastName" : "Jones",
+  "Values" : [0, 1, 2] }
+```
 
 The application includes the following code segment.
 
-	public class Name
-	{ 
-		public int [] Values {get; set; }
-		public string FirstName {get; set; }
-		public string LastName {get; set; }
-	}
-	public static Name ConvertToName (string json) 
-	{
-		var ser = new JavascriptSerializer();
-		-> LINEA 10 A RELLENAR <-
-	}
+```c#
+public class Name
+{ 
+	public int [] Values {get; set; }
+	public string FirstName {get; set; }
+	public string LastName {get; set; }
+}
+public static Name ConvertToName (string json) 
+{
+	var ser = new JavascriptSerializer();
+	-> LINEA 10 A RELLENAR <-
+}
+```
 
 You need to ensure that the ConvertToName() method returns the JSON input string as a Name object.
 

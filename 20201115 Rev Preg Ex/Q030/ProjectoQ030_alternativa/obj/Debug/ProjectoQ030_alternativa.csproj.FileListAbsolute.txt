@@ -1,0 +1,6 @@
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q030\ProjectoQ030_alternativa\bin\Debug\ProjectoQ030_alternativa.exe.config
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q030\ProjectoQ030_alternativa\bin\Debug\ProjectoQ030_alternativa.exe
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q030\ProjectoQ030_alternativa\bin\Debug\ProjectoQ030_alternativa.pdb
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q030\ProjectoQ030_alternativa\obj\Debug\ProjectoQ030_alternativa.csproj.CoreCompileInputs.cache
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q030\ProjectoQ030_alternativa\obj\Debug\ProjectoQ030_alternativa.exe
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q030\ProjectoQ030_alternativa\obj\Debug\ProjectoQ030_alternativa.pdb

@@ -2,8 +2,6 @@
 
 # QUESTION 40
 
-#### PREGUNTA REVISABLE
-
 ------
 
 You are developing an application that includes a class named BookTracker for tracking library books. The

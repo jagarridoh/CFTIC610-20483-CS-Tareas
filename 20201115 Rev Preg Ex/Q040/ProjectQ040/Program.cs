@@ -50,10 +50,9 @@ public class Runner
     {
         /* LINEA 18 */
         // OPTION A. AddBookCallback callback = PrintBookCount;    // OPTION A.
-        // OPTION B. tracker.AddBook(name, delegate (int i) { ... });   // OPTION B.
-        tracker.AddBook(name, delegate (int i) { Console.WriteLine("Dentro de la funcion anónima de la option B: {0}", i); });   // OPTION B.
-        // OPTION C. AddBookDelegate addDelegate = (bookTracker) => { ... }; // OPTION C. 
+        // OPTION B. tracker.AddBook(name, delegate (int i) { Console.WriteLine("Dentro de la funcion anónima de la option B: {0}", i); });   // OPTION B.
+        // OPTION C. AddBookDelegate addDelegate = (bookTracker) => { Console.WriteLine("Dentro de la funcion anónima de la option C: {0}", bookTracker); }; // OPTION C. 
         // OPTION C. addDelegate(tracker);                                   // OPTION C.    
-        // OPTION D. AddBookDelegate adder = (i, callback) => { ... };       // OPTION D. 
+        // OPTION D. AddBookDelegate adder = (i, callback) => { Console.WriteLine("Dentro de la funcion anónima de la option D. i: {0}, callback: {1}", i, callback); };       // OPTION D. 
     }
 }

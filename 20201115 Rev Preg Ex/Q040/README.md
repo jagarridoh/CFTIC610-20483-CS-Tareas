@@ -115,7 +115,7 @@ SIN EXPLICACIONES EN EL PDF.
 
 - A simple vista: 
   - OPTION A : como no llama a AddBook() desde Add(), da la impresión de que no se va a añadir el libro.
-  - OPTION B: trata con el objeto correcto, el método correcto y pasa una función anónima, pero la sintaxis delegate(int i) no la hemos visto en la teoría, si bien cuadra con la definición de delegado de la primera línea.
+  - OPTION B: trata con el objeto correcto, el método correcto y pasa una función anónima, con la sintaxis delegate(int i) y cuadra con la definición de delegado de la primera línea.
   - OPTION C:  como no llama a AddBook() desde Add(), da la impresión de que no se va a añadir el libro. Pero ojo, podría ser que la llamada a AddBook() estuviera dentro de los puntos suspensivos, pero esto es mucho liar, igual que crear addDelegate y llamarlo a continuación. La sintaxis de asignar a un delegado una función anónima no recuerdo haberla visto en la teoría.
   - OPTION D: define adder pero no lo utiliza ni tampoco pone llamada a tracker.AddBook().
   - OPTION B: parece la menos mala.
@@ -123,7 +123,8 @@ SIN EXPLICACIONES EN EL PDF.
   - https://geeks.ms/etomas/2010/07/21/c-bsico-delegates/
   - http://www.codedigest.com/Articles/CSHARP/5_Delegates_and_Anonymous_methods_in_C_.aspx
   - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/statements-expressions-operators/anonymous-functions
-- Para aclarar dudas se prepara proyecto con programación **ProjectQ040** y se observa:
-  - OPTION A: compila y se ejecuta pero no se añade en la lista de libros, o sea no se llama a AddBook.
-  - OPTION B: compila, se ejecuta, se añade en la lista de libros  y se llama al callback.
-  - OPTION C: 
+- Para aclarar dudas se prepara proyecto con programación **ProjectQ040**. Para probar cada opción hay que descomentar el código comentado en "Program.cs". Se observa:
+  - OPTION A: compila y se ejecuta pero no se añade en la lista de libros, o sea no se llama a AddBook. Opción incorrecta.
+  - OPTION B: compila, se ejecuta, se añade en la lista de libros  y se llama al callback. **Ok, y es la respuesta del PDF**.
+  - OPTION C: compila, se ejecuta, se llama a la función anónima, pero no hace función de callback si no que se llama de manera directa. No se llama a AddBook con lo que no se añade en la la lista de libros. Opción incorrecta.
+  - OPTION D: compila, se ejecuta, pero no se llama a AddBook ni a la función anónima del delegado adder. Opción incorrecta.

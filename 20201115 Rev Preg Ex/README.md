@@ -10,6 +10,6 @@
    4. Preguntas que también son interesantes de revisar: 30, 
 5. **Detalles de la entrega:**
    1. **Proyectos en carpetas: Qnnn** siendo nnn el número de la pregunta tratado. 
-   2. **Preguntas pendientes**: 137	136	135	134	133	132	40	261	259	42	59	76	93	110
+   2. **Preguntas pendientes**: 137	136	135	134	133	132	261	259	42	59	76	93	110
 
 

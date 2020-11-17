@@ -67,7 +67,15 @@ partial class TempControl : /* PONER AQUI PRIMERA SELECCION */
   * IFahrenheit.Temp()
   * Temp()
 
+
+
+
+
+
+
 ------
+
+### RESPUESTA 
 
 Correct Answer: 
 

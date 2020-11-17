@@ -43,7 +43,13 @@ Which three code segments should you insert in sequence at line 09?
 4. if (_catalog == null) _catalog = new Catalog();
 5. if (_catalog == null)
 
+
+
+
+
 ------
+
+### RESPUESTA
 
 Correct Answer:   
 

@@ -6,10 +6,10 @@
 4. **Dificultad o problemas presentados y como se resolvieron:** 
    1. Preguntas posiblemente obsoletas:          . ¡¡¡
    2. Preguntas fuera de alcance de la certificación 20483:       . ¡¡¡
-   3. Preguntas con respuesta errónea (total o parcialmente): 25,    . ¡¡¡
-   4. Preguntas que también son interesantes de revisar: 30, 
+   3. Preguntas con respuesta errónea (total o parcialmente): 25 (poco),    . ¡¡¡
+   4. Preguntas que también son interesantes de revisar: 30 (derivadas), 40 (liosa), 
 5. **Detalles de la entrega:**
    1. **Proyectos en carpetas: Qnnn** siendo nnn el número de la pregunta tratado. 
-   2. **Preguntas pendientes**: 137	136	135	134	133	132	261	259	42	59	76	93	110
+   2. **Preguntas pendientes**: 137	136	135	134	133	132	261	259	59	76	93	110
 
 

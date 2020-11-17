@@ -45,13 +45,13 @@ Which three code segments should you insert in sequence at line 09?
 
 ------
 
-Correct Answer: 
+Correct Answer:   
 
 * (1) lock (_lock)
 * (4) if (_catalog == null) _catalog = new Catalog();
 
-Section: Volume A
-Explanation:
+Section: Volume A  
+Explanation:  
 After taking a lock you must check once again the _catalog field to be sure that other threads didn't instantiated it in the meantime.
 
 ------

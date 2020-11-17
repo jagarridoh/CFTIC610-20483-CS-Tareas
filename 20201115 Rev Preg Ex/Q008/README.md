@@ -32,19 +32,19 @@ You need to ensure that the ConvertToName() method returns the JSON input string
 
 Which code segment should you insert at line 10?
 
-A. Return ser.ConvertToType\<Name>(json);
-B. Return ser.DeserializeObject(json);
-C. Return ser.Deserialize\<Name>(json);
-D. Return (Name)ser.Serialize(json);
+A. Return ser.ConvertToType\<Name>(json);  
+B. Return ser.DeserializeObject(json);  
+C. Return ser.Deserialize\<Name>(json);  
+D. Return (Name)ser.Serialize(json);   
 
 
 
 ------
 
-Correct Answer: C
-Section: Volume A
-Explanation:
-JavaScriptSerializer.Deserialize\<T> - Converts the specified JSON string to an object of type T.
+Correct Answer: C  
+Section: Volume A  
+Explanation:  
+JavaScriptSerializer.Deserialize\<T> - Converts the specified JSON string to an object of type T.  
 References: http://msdn.microsoft.com/en-us/library/bb355316.aspx
 
 ------

@@ -1,0 +1,7 @@
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q132\ProjectQ132\obj\Debug\ProjectQ132.csprojAssemblyReference.cache
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q132\ProjectQ132\obj\Debug\ProjectQ132.csproj.CoreCompileInputs.cache
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q132\ProjectQ132\bin\Debug\ProjectQ132.exe.config
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q132\ProjectQ132\bin\Debug\ProjectQ132.exe
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q132\ProjectQ132\bin\Debug\ProjectQ132.pdb
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q132\ProjectQ132\obj\Debug\ProjectQ132.exe
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q132\ProjectQ132\obj\Debug\ProjectQ132.pdb

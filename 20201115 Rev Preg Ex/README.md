@@ -10,6 +10,6 @@
    4. Preguntas que también son interesantes de revisar: 30 (derivadas), 40 (liosa), 76 (hacer de más quita puntos)
 5. **Detalles de la entrega:**
    1. **Proyectos en carpetas: Qnnn** siendo nnn el número de la pregunta tratado. 
-   2. **Preguntas pendientes**: 137	136	135	134	261	259
+   2. **Preguntas pendientes**: 137	136	261	259
 
 

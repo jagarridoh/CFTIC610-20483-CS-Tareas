@@ -7,9 +7,9 @@
    1. Preguntas posiblemente obsoletas:          . ¡¡¡
    2. Preguntas fuera de alcance de la certificación 20483:       . ¡¡¡
    3. Preguntas con respuesta errónea (total o parcialmente): 25 (poco), 133,    . ¡¡¡
-   4. Preguntas que también son interesantes de revisar: 30 (derivadas), 40 (liosa), 76 (hacer de más quita puntos)
+   4. Preguntas que también son interesantes de revisar: 30 (derivadas), 40 (liosa), 76 (hacer de más quita puntos), 136 (when clauses in case expressions), ¡¡¡
 5. **Detalles de la entrega:**
    1. **Proyectos en carpetas: Qnnn** siendo nnn el número de la pregunta tratado. 
-   2. **Preguntas pendientes**: 137	136	261	259
+   2. **Preguntas pendientes**: 137	261	259
 
 

@@ -1,0 +1,7 @@
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q261\ProjectQ261\obj\Debug\ProjectQ261.csprojAssemblyReference.cache
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q261\ProjectQ261\obj\Debug\ProjectQ261.csproj.CoreCompileInputs.cache
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q261\ProjectQ261\bin\Debug\ProjectQ261.exe.config
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q261\ProjectQ261\bin\Debug\ProjectQ261.exe
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q261\ProjectQ261\bin\Debug\ProjectQ261.pdb
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q261\ProjectQ261\obj\Debug\ProjectQ261.exe
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-Tareas\20201115 Rev Preg Ex\Q261\ProjectQ261\obj\Debug\ProjectQ261.pdb
